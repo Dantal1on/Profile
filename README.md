@@ -11,12 +11,17 @@
 
 <h2 align="center">Socials</h2>
 
-<div align="center" style="width: 25px; height:25px">
 
-[![Pinterest](https://i.imgur.com/iOsvNOx.png)](https://ru.pinterest.com/dm216925/)
-[![Github](https://i.imgur.com/bx8Rxta.png)](https://github.com/Dantal1on)
+<p align="center" >
 
-</div>
+>><a href=https://ru.pinterest.com/dm216925/>
+>><img src=https://i.imgur.com/iOsvNOx.png width=50px height=50px>
+>></a>
+>><a href=https://github.com/Dantal1on>
+>><img src=https://i.imgur.com/bx8Rxta.png width=50px height=50px>
+>></a>
+
+</p>
 
 <h2 align="center">Tools</h2>
 
