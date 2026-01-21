@@ -1,3 +1,5 @@
+<div align="center">
+  
 <p align="center">
 
 >> <h2 align="center">Hi, Im Danti i`m learning for programing 😶‍🌫️</h2>
@@ -50,6 +52,12 @@
 
 <h2 align="center">Operating Systems</h2>
 
+<p align="center">
+  
 >><a href="https://news.microsoft.com/windows11-general-availability/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows 11" width="50" height="50"/>
 >></a>
+
+</p>
+
+</div>
